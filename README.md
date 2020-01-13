@@ -6,3 +6,5 @@ If you've got a complex theme, or perhaps one that has a few foibles in how to g
 Adding a help page is fairly simple and, if you've not added any back end functionality to Wordpress before will be a great point to start in understanding how to create new menu pages.
 
 Fill it with helpful content such as reserved HTML classes, how to use baked in shortcodes and what page templates are available!
+
+Just drop the functions into your Wordpress theme's functions.php and customise to your hearts content.
